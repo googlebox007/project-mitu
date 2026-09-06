@@ -1,0 +1,264 @@
+{
+  "title": "《迷途》警示教育短片",
+  "genre": "警示教育",
+  "characters": {
+    "雷霆": "31岁男性，面容方正，眼神锐利而自信，身穿深蓝色西装，系标准领带，皮鞋锃亮。年轻时意气风发，后期逐渐憔悴、心事重重。国企经理，年轻有为。",
+    "王芳": "30岁左右女性，雷霆妻子，温婉贤惠，穿着朴素居家服装，脸上常带担忧神色。",
+    "周明": "40岁左右男性，公司综合部主任，精明世故，穿着得体，经常送礼套近乎。",
+    "张总": "45岁左右男性，宏达食品公司老板，身材微胖，满脸堆笑，穿着高档西装，善于逢迎。"
+  },
+  "scenes": {
+    "合川区城区清晨": "薄雾笼罩的县城，高楼林立，江风湿润。现代建筑群，晨光中的城市全景。",
+    "学子教育公司前台": "气派的现代建筑入口，金色大字标识，红色廉洁标语横幅，整洁有序的环境。",
+    "雷霆办公室": "顶层落地窗办公室，俯瞰全城。办公桌上摆放文件和《廉洁自律准则》，明亮整洁。",
+    "雷霆家中客厅": "温馨普通的家庭环境，沙发电视，生活气息浓厚，傍晚暖色调灯光。",
+    "高档餐厅包间": "隐蔽性强的私人会所，装修奢华，红木桌椅，精致餐具，氛围私密。",
+    "奢侈品商店": "高端购物中心，明亮灯光，玻璃展柜，陈列着手表皮带等商品。",
+    "嘉陵江边黄昏": "黄昏时分的江堤，夕阳染红江面，石栏，孤独的行走身影，画面萧瑟。",
+    "纪委谈话室": "简朴的室内环境，白色墙壁，木质桌椅，严肃压抑的氛围。",
+    "看守所会见室": "铁栏隔开的会见室，玻璃墙，对面是年迈的父母，令人心碎的画面对比。"
+  },
+  "storyboard": [
+    {
+      "shot": 1,
+      "description": "清晨薄雾中的合川城区，镜头推进到学子教育公司大门，金色大字在阳光下闪闪发光，两侧红色横幅标语醒目",
+      "dialogue": "旁白：2015年的春天，雷霆刚刚满31岁",
+      "duration": 6,
+      "camera": "推轨",
+      "references": {
+        "characters": [],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\合川区城区清晨.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\学子教育公司前台.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 2,
+      "description": "雷霆从电梯走出，身穿深蓝色西装，步伐稳健，面容自信年轻，同事投来羡慕目光",
+      "dialogue": "旁白：那一年，他成为了这所国企公司的\"一把手\"",
+      "duration": 5,
+      "camera": "跟拍",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 3,
+      "description": "雷霆办公室内，落地窗俯瞰全城，桌上放着《廉洁自律准则》，雷霆批阅文件",
+      "dialogue": "雷霆：食堂改造项目预算80万元...",
+      "duration": 5,
+      "camera": "固定镜头",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 4,
+      "description": "周明走进办公室，手里拿着精致礼盒，脸上堆满笑容，试图送礼",
+      "dialogue": "周明：雷霆，一点土特产，不成敬意",
+      "duration": 5,
+      "camera": "中景",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\周明.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 5,
+      "description": "雷霆拒绝送礼，周明尴尬离开，雷霆独自坐在桌前若有所思",
+      "dialogue": "雷霆内心独白：下次注意就是了",
+      "duration": 5,
+      "camera": "特写",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 6,
+      "description": "雷霆家中，晚饭桌上一家三口其乐融融，温馨的家庭场景",
+      "dialogue": "旁白：这就是我奋斗的意义吧",
+      "duration": 5,
+      "camera": "固定镜头",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\王芳.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆家中客厅.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 7,
+      "description": "高档餐厅包间内，雷霆与张总等人吃饭喝酒，气氛渐热，雷霆卸下防备",
+      "dialogue": "雷霆内心独白：吃顿饭而已，没什么大不了的",
+      "duration": 6,
+      "camera": "横移",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\张总.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\高档餐厅包间.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 8,
+      "description": "招标会议室，雷霆坐在主位，神情专业严谨，张总发言后悄然离开",
+      "dialogue": "雷霆内心独白：我是不是太苛刻了？",
+      "duration": 5,
+      "camera": "固定镜头",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\张总.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 9,
+      "description": "雷霆深夜独自在家喝酒，王芳担忧地看着他的背影，电视开着但没人看",
+      "dialogue": "王芳内心独白：他变了",
+      "duration": 5,
+      "camera": "慢推",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\王芳.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆家中客厅.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 10,
+      "description": "雷霆办公室，周明拎来黑色公文包，雷霆猛地站起推开公文包，表情愤怒",
+      "dialogue": "雷霆内心独白：我自己不也收过人家的东西吗？",
+      "duration": 5,
+      "camera": "特写",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg",
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\周明.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 11,
+      "description": "雷霆在奢侈品商店试戴名表，购买高档皮带，刷卡付款时监控摄像头正对着他",
+      "dialogue": "雷霆内心独白：凭本事赚的钱，花得心安理得",
+      "duration": 5,
+      "camera": "中景",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\奢侈品商店.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 12,
+      "description": "黄昏嘉陵江边，雷霆将黑色塑料袋投入江中，水面泛起涟漪",
+      "dialogue": "雷霆内心独白：藏起来，谁也不知道",
+      "duration": 5,
+      "camera": "远景",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\嘉陵江边黄昏.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 13,
+      "description": "雷霆办公室，两名穿黑衣的男子推门而入，雷霆脸色瞬间苍白",
+      "dialogue": "雷霆内心独白：完了，全完了",
+      "duration": 4,
+      "camera": "固定镜头",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\雷霆办公室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 14,
+      "description": "纪委谈话室，雷霆低头坐着，面前放着《留置通知书》，表情沮丧悔恨",
+      "dialogue": "旁白：2023年3月，雷霆因涉嫌严重违纪违法接受调查",
+      "duration": 6,
+      "camera": "固定镜头",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\纪委谈话室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 15,
+      "description": "看守所会见室，铁栏内外，年迈的父母隔着玻璃相望，母亲泪流满面，父亲沉默颤抖",
+      "dialogue": "旁白：一念之差，万劫不复",
+      "duration": 7,
+      "camera": "缓缓拉远",
+      "references": {
+        "characters": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\characters\\雷霆.jpg"
+        ],
+        "scenes": [
+          "C:/Users/tuzhiyong/Desktop/project_mitú\\scenes\\看守所会见室.jpg"
+        ]
+      }
+    },
+    {
+      "shot": 16,
+      "description": "黑屏字幕：警钟长鸣，勿让贪欲吞噬人生。 credits滚动",
+      "dialogue": "无",
+      "duration": 5,
+      "camera": "淡出",
+      "references": {
+        "characters": [],
+        "scenes": []
+      }
+    }
+  ]
+}
